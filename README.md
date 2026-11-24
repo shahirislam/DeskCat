@@ -4,8 +4,8 @@ A tiny animated cat companion that wanders your screen while you work.
 Built for Mac and Windows with PyQt6 - a real vector-drawn cat with a
 truly transparent window (no white box).
 
-**Windows download:** [DeskCat.exe](https://github.com/shahirislam/DeskCat/releases/latest/download/DeskCat.exe)
-- one file, nothing to install, just double-click it. The first time, Windows
+**Windows download:** [DeskCat.exe](https://github.com/shahirislam/DeskCat/releases/latest/download/DeskCat.exe).
+One file, nothing to install, just double-click it. The first time, Windows
 may ask you to click "More info" then "Run anyway".
 
 ## What it does
