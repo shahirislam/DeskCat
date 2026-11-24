@@ -4,6 +4,10 @@ A tiny animated cat companion that wanders your screen while you work.
 Built for Mac and Windows with PyQt6 - a real vector-drawn cat with a
 truly transparent window (no white box).
 
+**Windows download:** [DeskCat.exe](https://github.com/shahirislam/DeskCat/releases/latest/download/DeskCat.exe)
+- one file, nothing to install, just double-click it. The first time, Windows
+may ask you to click "More info" then "Run anyway".
+
 ## What it does
 
 - A small cat strolls around the screen: legs walk, tail swishes, it blinks,
@@ -168,3 +172,6 @@ with PyInstaller: one file with Python, PyQt6 and the meow sound inside, so
 friends just double-click it. A Windows .exe can only be built on Windows.
 The file is unsigned, so Windows SmartScreen may ask them to click
 "More info" then "Run anyway" the first time.
+
+To publish a new version, push a tag (`git tag v1.1.0 && git push origin v1.1.0`);
+GitHub builds the exe and attaches it to a release.
